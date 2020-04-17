@@ -15,6 +15,3 @@ flask = "*"
 sphinx = "*"
 marshmallow = "*"
 pytest-cov = "*"
-
-[pipenv]
-allow_prereleases = true
